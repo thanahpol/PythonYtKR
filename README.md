@@ -1,1 +1,3 @@
-# PythonKurs
+# PythonYtKR
+
+self learning Python
